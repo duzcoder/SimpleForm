@@ -1,0 +1,54 @@
+*{
+	font-family: sans-serif;
+	font-weight: bold;
+	user-select: none;
+}
+form{
+	margin-left: auto;
+  	margin-right: auto;
+  	background-color: #F9FBE7;
+  	border:solid;
+	border-width: 1px;
+	border-color: black;
+	border-radius: 150px;
+	padding:20px;
+	width:500px;
+	transition-duration: 0.7s;
+}
+td{
+	padding-bottom: 80px;
+	padding-right: 10px;
+}
+table{
+	margin-left: auto;
+  	margin-right: auto;
+}
+div{
+	margin-left: 200px;
+}
+input{
+	border:none;
+	background-color: 
+}
+input:focus{
+	border:solid black;
+	border-width: 1px;
+	border-radius: 20px;
+}
+#btn1{
+	background-color: #E0D8B0;
+	border:solid black;
+	border-width: 1px;
+	border-radius: 20px;
+	color: white;
+	padding:10px;
+	width:80px;
+}
+#btn2{
+	border:none;
+	background-color: black;
+	border-radius: 20px;
+	color: white;
+	padding:10px;
+	width:80px;
+}
