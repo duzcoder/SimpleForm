@@ -1,5 +1,7 @@
 # SimpleForm
 SimpleForm  A minimalist project showcasing an elegant HTML and CSS form. Features clean design, responsiveness, HTML5 validation, and customizable styling. Clone, open `index.html`, and start using. Contributions welcome. By AsmaCodes.
+
+Access the website: https://duzcoder.github.io/SimpleForm/
 # SimpleForm
 
 SimpleForm is a minimalist project that showcases the simplicity and elegance of building a form using only HTML and CSS. This project aims to provide a practical example for beginners to learn the fundamentals of creating a functional form without relying on external libraries or frameworks.
