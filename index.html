@@ -9,25 +9,25 @@
 	<table>
 		<tr>
 			<td id="t1">Name:</td>
-			<td><input type="text"></td>
+			<td><input type="text" class="uinput" required></td>
 		</tr>
 		<tr>
 			<td id="t1">Age:</td>
-			<td><input type="number" min="18" max="50"></td>
+			<td><input type="number" class="uinput" required min="18" max="50"></td>
 		</tr>
 		<tr>
 			<td id="t1">CIN:</td>
-			<td><input type="text"></td>
+			<td><input type="text" class="uinput" required></td>
 		</tr>
 		<tr>
 			<td id="t1">Gender:</td>
-			<td><input type="radio">F
-				<input type="radio">M</td>
+			<td><input type="radio"  required name="gender">Female
+				<input type="radio" name="gender">Male</td>
 		</tr>
 	</table>
 	<div>
-		<button id="btn1">Submit</button>
-		<button id="btn2">Reset</button>
+		<button id="btn1" type="submit">Submit</button>
+		<button id="btn2" type="reset">Reset</button>
 	</div>
 </form>
 </body>
